@@ -1,7 +1,6 @@
 # otus-2023-04-qa-js-artamonov_sd
 
-## new file alsjdhajshdlajsdhlajsdh
-
-alsjdhajshdlajsdhlajsdh
-
-
+## new file 
+## новый раздел
+*часть 1
+* часть 2
